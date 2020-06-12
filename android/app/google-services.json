@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49051865848",
+    "firebase_url": "https://homiee-47373.firebaseio.com",
+    "project_id": "homiee-47373",
+    "storage_bucket": "homiee-47373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49051865848:android:429c7ac23a27ed280d210d",
+        "android_client_info": {
+          "package_name": "com.homiee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49051865848-u5773vaigun1opiu8gdjkdhltsreiksl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoH-yhWAJTJs_gIvUea4FS3tyZGBi5qLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49051865848-u5773vaigun1opiu8gdjkdhltsreiksl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
